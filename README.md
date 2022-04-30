@@ -31,7 +31,7 @@ twitch.tv/prospekt
 
 
 # Commands
-These commands only work for moderators/VIPs.
+### These commands only work for moderators/VIPs.
 
 #### !rejoin
 rejoins the quick match lobby when booted to the Network menu (Ranked Match, Quick Match, Ranking screen)
@@ -39,7 +39,9 @@ rejoins the quick match lobby when booted to the Network menu (Ranked Match, Qui
 #### !ping
 Checks if streamerbot is listening.
 
-These commands only work for moderators.
+
+
+### These commands only work for moderators.
 
 #### !begin 
 This command is ONLY for when the game has been started but is in attract mode. Therefore, it's rarely used. The distinction is this command expects the first menu option to be Arcade instead of Network.
