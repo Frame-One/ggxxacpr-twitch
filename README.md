@@ -24,7 +24,7 @@ ACPR runs at 640x480. Because of this, you can integer scale the game to 1280x96
 Yes. Probably best off sending bits/subs to this channel or better yet twitch.tv/prospekt.
 
 #### Who are you?
-[twitch.tv/prospekt]twitch.tv/prospekt
+[twitch.tv/prospekt](twitch.tv/prospekt)
 
 [Twitter](https://twitter.com/prspekt)
 
