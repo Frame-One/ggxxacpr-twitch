@@ -26,9 +26,9 @@ Yes. Probably best off sending bits/subs to this channel or better yet twitch.tv
 #### Who are you?
 [twitch.tv/prospekt](twitch.tv/prospekt)
 
-[Twitter](https://twitter.com/prspekt)
+[@prspekt on Twitter](https://twitter.com/prspekt)
 
-[YouTube](https://www.youtube.com/channel/UCCO_DP32pnyS5ZTJZISJGgA)
+[prospekt on YouTube](https://www.youtube.com/channel/UCCO_DP32pnyS5ZTJZISJGgA)
 
 [VODs](https://www.youtube.com/playlist?list=PLPUiVHNeaaSPTrFDiL7zlQYpYkL_jPUS7)
 
