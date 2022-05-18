@@ -1,4 +1,7 @@
 # FAQs
+#### Are these matches live?
+Yes.
+
 #### Why is it broken?
 Something went wrong, I will fix it when I can, sorry.
 
