@@ -21,10 +21,10 @@ Thank you, I thought it would be cool.
 ACPR runs at 640x480. Because of this, you can integer scale the game to 1280x960 and 1920x1440. 1440p is a little too big for twitch bitrate limits so it's at 960p. If you're running ACPR on a 1440p monitor, set anti aliasing to OFF in settings for a very nice crisp image. Otherwise AA: 2X seems to be the best option. Also, if you're able to view this stream in a media player like VLC or MPV, it looks really, really good.
 
 #### Can I support you for doing this?
-Yes. Probably best off sending bits/subs to this channel or better yet [twitch.tv/prospekt](twitch.tv/prospekt).
+Yes. Probably best off sending bits/subs to this channel or better yet [twitch.tv/prospekt](https://twitch.tv/prospekt).
 
 #### Who are you?
-[twitch.tv/prospekt](twitch.tv/prospekt)
+[twitch.tv/prospekt](https://twitch.tv/prospekt)
 
 [@prspekt on Twitter](https://twitter.com/prspekt)
 
