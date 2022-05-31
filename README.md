@@ -30,9 +30,6 @@ Yes. Probably best off sending bits/subs to this channel or better yet [twitch.t
 
 [prospekt on YouTube](https://www.youtube.com/channel/UCCO_DP32pnyS5ZTJZISJGgA)
 
-[VODs](https://www.youtube.com/playlist?list=PLPUiVHNeaaSPTrFDiL7zlQYpYkL_jPUS7)
-
-
 # Commands
 ### These commands only work for moderators/VIPs.
 
