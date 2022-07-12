@@ -1,6 +1,6 @@
 # FAQs
 #### Are these matches live?
-Yes.
+Yes. The Quick Match lobby features a spectator mode that can spectate matches unattended in 3 modes (Best win rate, Best winstreak, Random).
 
 #### Why is it broken?
 Something went wrong, I will fix it when I can, sorry.
