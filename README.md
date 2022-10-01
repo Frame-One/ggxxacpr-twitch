@@ -6,7 +6,7 @@ Yes. The Quick Match lobby features a spectator mode that can spectate matches u
 Something went wrong, I will fix it when I can, sorry.
 
 #### Why did the stream turn off?
-I have to segment the vods or twitch will terminate the stream at 48 hours. The stream runs for 23 hours and 59 minutes then turns on again after a minute.
+I have to segment the vods or twitch will terminate the stream at 48 hours. The stream runs for 23 hours, 59 minutes, and 53 seconds then turns on again after a few seconds.
 
 #### Why do matches disconnect?
 I assume if the match cannot be downloaded before the players finish their session it ends, also genuine rage quits do happen but much rarer than the first case.
