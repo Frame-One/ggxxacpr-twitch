@@ -9,7 +9,7 @@ Something went wrong, I will fix it when I can, sorry.
 I have to segment the vods or twitch will terminate the stream at 48 hours. The stream runs for 23:59:53 then turns on again after a few seconds.
 
 #### Why do matches disconnect?
-I assume if the match cannot be downloaded before the players finish their session it ends, also genuine rage quits do happen but much rarer than the first case.
+I assume if the match cannot be downloaded before the players finish their session it ends. Also, genuine rage quits do happen but much rarer than the first case.
 
 #### Can I use this footage?
 Yes, just mention the channel name but if you forget it's ok.
