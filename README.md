@@ -2,6 +2,9 @@
 #### Are these matches live?
 Yes. The Quick Match lobby features a spectator mode that can spectate matches unattended in 3 modes (Best win rate, Best winstreak, Random).
 
+#### Where can I find replays of these matches
+[acpr.frameone.net](https://acpr.frameone.net) has replay files of all matches played on this channel as well as user submitted matches.
+
 #### Why is it broken?
 Something went wrong, I will fix it when I can, sorry.
 
