@@ -3,13 +3,13 @@
 Yes. The Quick Match lobby features a spectator mode that can spectate matches unattended in 3 modes (Best win rate, Best winstreak, Random).
 
 #### Where can I find replays of these matches
-[acpr.frameone.net](https://acpr.frameone.net) has replay files of all matches played on this channel as well as user submitted matches.
+[acpr.frameone.net](https://acpr.frameone.net) has replay files of all matches played on this channel as well as player submitted matches.
 
 #### Why is it broken?
 Something went wrong, I will fix it when I can, sorry.
 
 #### Why did the stream turn off?
-I have to segment the vods or twitch will terminate the stream at 48 hours. The stream runs for 23:59:53 then turns on again after a few seconds.
+Twitch terminates streams at 48hrs, it will turn back on automatically.
 
 #### Why do matches disconnect?
 I assume if the match cannot be downloaded before the players finish their session it ends. Also, genuine rage quits do happen but much rarer than the first case.
